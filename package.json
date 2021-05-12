@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BenLubar/nodebb-plugin-deny-moderator-access.git"
+    "url": "git+https://github.com/boomzillawtf/nodebb-plugin-deny-moderator-access.git"
   },
   "author": "Ben Lubar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BenLubar/nodebb-plugin-deny-moderator-access/issues"
+    "url": "https://github.com/boomzillawtf/nodebb-plugin-deny-moderator-access/issues"
   },
-  "homepage": "https://github.com/BenLubar/nodebb-plugin-deny-moderator-access#readme",
+  "homepage": "https://github.com/boomzillawtf/nodebb-plugin-deny-moderator-access#readme",
   "dependencies": {
     "async": "^3.0.0"
   },
